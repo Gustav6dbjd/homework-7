@@ -1,5 +1,5 @@
 
-//           домашка на прошлый урок
+
 /*  
 let currentDate = new Date();
 console.log(currentDate.toDateString());
